@@ -3509,6 +3509,7 @@ a.toggle-menu {
     color: #fff !important;
 }
 .search-input:focus {
+    border-bottom: 1px solid #ffd700 !important;
     border-top: 0 !important;
     border-right: 0 !important;
     border-left: 0 !important;
